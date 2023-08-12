@@ -3,35 +3,35 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Luiz+Eduardo;Tenho+23+Anos;Sou+Natural+de+Floriano,+PI;Estudo+Engenharia+de+Software+na+UFC-Quixada;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
-## Sobre Mim
+## Brief bout me
 
-Sou um estudante de Engenharia de Software com uma paixão pelo desenvolvimento de software e tecnologia. Gosto de trabalhar em projetos que me desafiam e me levam a aprender novas competências. As minhas áreas de interesse incluem desenvolvimento web, desenvolvimento mobile, e desenvolvimento de games.
+I am a Software Engineering student with a background in the development of software and technology. I enjoy working on projects that challenge me and lead me to learn new skills. The minhas areas of interest include web development, mobile development, and game development.
 
-## Projetos
+## Projects
 
-Alguns dos projetos que encontrarão no meu repositório incluem:
+Some of projects that you will find in my repository include:
 
-* Aplicações Web utilizando HTML, CSS, JavaScript e React
-* Desenvolvimento de jogos usando Gdscrip
-* Desenvolvimento de aplicações móveis utilizando Flutter
-* Aplicações desenvolvidas com Java
+* Web applications using HTML, CSS, JavaScript and React
+* Game development using Gdscrip
+* Development of mobile applications using Flutter
+* Applications developed with Java
 
-### Estudando no Momento:
+### Studying at the Moment:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=0D1117)&nbsp;
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=0D1117)&nbsp;
 
-## Contribuições
+## Contributions
 
-Tenho um forte interesse em contribuir para projetos de código aberto, particularmente dentro da comunidade Linux e Android, que são os sistemas pelo qual tenho uma grande paixão. Embora ainda não tenha feito qualquer contribuição e não tenha tanto conhecimento tecnico, procuro ativamente oportunidades para o fazer e estou entusiasmado por colaborar com outros programadores em projetos significativos. Se tiver alguma sugestão ou conhecer algum projeto que possa beneficiar das minhas competências, por favor não hesite em contactar-me!
+I have a strong interest in contributing to open source projects, particularly within the Linux and Android communities, which are the systems for which I have a large population. Although I still don't have any successful contributions and don't have as much technical knowledge, I actively seek opportunities to do it and am excited to collaborate with other programmers on meaningful projects. If you have any suggestion or know of any project that may benefit from my skills, please do not hesitate to contact me!
 
-Sinta-se à vontade para explorar o meu repositório e utilizar qualquer material ou código que considere útil. Estou sempre a trabalhar em novos projetos e a explorar novas tecnologias, por isso não se esqueça de verificar frequentemente por atualizações! Obrigado pela sua visita, e estou ansioso por me ligar a outros programadores e contribuir para a comunidade de código-fonte aberto.
+Feel free to explore my repository and use any material or code you find useful. I am always working on new projects and exploring new technologies, so I am not afraid to check frequently for updates! Thank you for your visit, and I look forward to connecting with other programmers and contributing to the open-source code community.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Eduardo-BL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="http://github.com/luiz-eduardo-bl">
+  <a href="http://github.com/mayur5c">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luiz-eduardo-bl&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eduardo-bl&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
 </div>
@@ -39,11 +39,11 @@ Sinta-se à vontade para explorar o meu repositório e utilizar qualquer materia
 ##
 
 <div align="center">
-  <a href="https://www.instagram.com/lima_ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=0D1117" target="_blank"></a>
-  <a href = "mailto:luizedu@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=0D1117" target="_blank"></a>
+  <a href="https://www.instagram.com/mayur_chopra_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=0D1117" target="_blank"></a>
+  <a href = "mailto:mayur.chopra@somaiya.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=0D1117" target="_blank"></a>
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=0D1117&style=for-the-badge" target="_blank"></a> 
-  <a href="https://t.me/Dudu_Lima" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=0D1117" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/luiz-eduardo-borges-de-lima-731142212/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=0D1117" target="_blank"></a> 
+  <a href="https://t.me/mchopra" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=0D1117" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/mayurchopra/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=0D1117" target="_blank"></a> 
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
