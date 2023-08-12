@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Luiz+Eduardo;Tenho+23+Anos;Sou+Natural+de+Floriano,+PI;Estudo+Engenharia+de+Software+na+UFC-Quixada;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Welcome+to+my+profile.;I+did+my+Engineering+from+Maharaja+Agrasen+Institute+of+Technology.;I+am+from+New+Delhi%2C+India.;Currently+looking+for+Full+Stack+developement+roles+in+India.)](https://git.io/typing-svg)
 
 
 ## Brief bout me
@@ -39,7 +39,7 @@ Feel free to explore my repository and use any material or code you find useful.
 ##
 
 <div align="center">
-  <a href="https://www.instagram.com/mayur_chopra_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=0D1117" target="_blank"></a>
+  <a href="https://www.instagram.com/chopra_mayur_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=0D1117" target="_blank"></a>
   <a href = "mailto:mayur.chopra@somaiya.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=0D1117" target="_blank"></a>
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=0D1117&style=for-the-badge" target="_blank"></a> 
   <a href="https://t.me/mchopra" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=0D1117" target="_blank"></a>  
