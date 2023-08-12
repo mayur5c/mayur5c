@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+Welcome+to+my+profile.;I+did+my+Engineering+from+Maharaja+Agrasen+Institute+of+Technology.;I+am+from+New+Delhi%2C+India.;Currently+looking+for+Full+Stack+developement+roles+in+India.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+Welcome+to+my+profile;I+did+my+Engineering+from+MAIT+Delhi;Looking+for+Full+Stack+dev+roles+in+India)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Luiz+Eduardo;Tenho+23+Anos;Sou+Natural+de+Floriano,+PI;Estudo+Engenharia+de+Software+na+UFC-Quixada;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 
 
 ## Brief bout me
