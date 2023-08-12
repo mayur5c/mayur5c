@@ -34,8 +34,8 @@ Feel free to explore my repository and use any material or code you find useful.
 
 <div align="center">
   <a href="http://github.com/mayur5c">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luiz-eduardo-bl&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eduardo-bl&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayur5c-bl&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur5c-bl&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
 </div>
 
 ##
