@@ -29,7 +29,7 @@ I have a strong interest in contributing to open source projects, particularly w
 
 Feel free to explore my repository and use any material or code you find useful. I am always working on new projects and exploring new technologies, so I am not afraid to check frequently for updates! Thank you for your visit, and I look forward to connecting with other programmers and contributing to the open-source code community.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Eduardo-BL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+.(https://fabianocouto-activity-graph.vercel.app/graph/?username=mayur5c).
 
 <div align="center">
   <a href="http://github.com/mayur5c">
