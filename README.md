@@ -6,15 +6,15 @@
 
 ## Brief bout me
 
-I am a Software Engineering student with a background in the development of software and technology. I enjoy working on projects that challenge me and lead me to learn new skills. The minhas areas of interest include web development, mobile development, and game development.
+I am a Software Engineering student with a background in the development of software and technology. I enjoy working on projects that challenge me and lead me to learn new skills. My areas of interest include web development with responsive design.
 
 ## Projects
 
 Some of projects that you will find in my repository include:
 
 * Web applications using HTML, CSS, JavaScript and React
-* Game development using Gdscrip
-* Development of mobile applications using Flutter
+* Android Apps built from responsive websites
+* Development of mobile applications(React Native)
 * Applications developed with Java
 
 ### Studying at the Moment:
